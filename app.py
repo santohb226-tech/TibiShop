@@ -518,4 +518,4 @@ def welcome():
 
 if __name__=='__main__':
     print('TibiShop v4 FIXED - profile, login, terms agree/disagree, orange nav, location buyer+seller, tracking')
-    app.run(port=8890, debug=True)
+    app.run()
