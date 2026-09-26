@@ -3,5 +3,5 @@ Werkzeug
 jinja2
 requests
 python-dotenv
-pill0w
+pillow
 gunicorn
